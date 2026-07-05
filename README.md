@@ -2,7 +2,13 @@
 # **Big_Brother**  
 ### *Multi‑Modal AI Assistant with Visual Authentication*
 
-Big_Brother is a personal pet project initially begin as final project for LLM course at IASBS. The aim is to design a  secure, context‑aware AI system that fuses **facial authentication**, **speech understanding**, and **intelligent dialogue via LLMs** – all while keeping a watchful eye (and ear) on its surroundings.
+Big_Brother is a personal pet project initially begin as final project for LLM course at IASBS. The aim is to design a  secure, context‑aware AI system that does the following in order:
+- Watches the environment and if identifies you, greets you and waits for your response.
+- Otherwise if set for gaurding, it would take a pic from the introders and sends them to the user via Telegram.
+- If visually authenticated, listens to you for a brief time, then respounds to you verbally and this loop goes on as long as you say the interrupt words.
+- If set for gaurding, it would take a pic from the introders and sends them to the user via Telegram.
+
+>fuses **facial recognition**, **speech understanding**, and **LLMs** – to communicate, while keeping a watchful eye on its surroundings.
 
 ---
 
