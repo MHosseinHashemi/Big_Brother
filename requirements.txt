@@ -1,0 +1,17 @@
+insightface==0.7.3
+opencv-python==4.9.0.80
+noisereduce==3.0.0
+python-dotenv==1.0.1
+scipy==1.11.4
+openai==1.10.0
+vosk==0.3.45
+whisper==1.1.10
+pyttsx3==2.90
+pyaudio==0.2.14
+requests==2.31.0
+onnxruntime==1.17.1
+speechrecognition==3.10.0
+matplotlib==3.8.3
+numpy==1.26.4
+librosa==0.10.1
+soundfile==0.12.1
