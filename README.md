@@ -76,6 +76,11 @@ graph LR
 - On detection, the system captures a photo and sends it as a document to your Telegram chat.  
 - Uses the **Bot API** with `requests` – immediate, reliable, and mobile‑friendly.
 
+> Testing the bot ...
+<img width="270" height="560" alt="unnamed" src="https://github.com/user-attachments/assets/58510906-4733-4934-a473-a3b13d450ce0" />
+
+
+
 ---
 
 ### Getting Started
